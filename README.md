@@ -1,4 +1,4 @@
-Webtechnológiák: a Markdown használata ![markdown-logo](markdown-logo.png)
+Webtechnológiák: a Markdown használata ![markdown-logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/64px-Markdown-mark.svg.png)
 ============
 
 A dokumentum tartalma
